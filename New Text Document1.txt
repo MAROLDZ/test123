@@ -2,9 +2,13 @@ initial commit
 
 commit 2
 
+<<<<<<< HEAD
 commit 3
 
 com4
 some
 
 zfczx
+=======
+commit 3
+>>>>>>> parent of cf57e7b... com4
