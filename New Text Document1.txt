@@ -1,5 +1,6 @@
 initial commit
 
+<<<<<<< HEAD
 commit 2
 
 <<<<<<< HEAD
@@ -12,3 +13,6 @@ zfczx
 =======
 commit 3
 >>>>>>> parent of cf57e7b... com4
+=======
+commit 2
+>>>>>>> parent of f5497b6... com3
